@@ -57,6 +57,6 @@ private:
     void removeAllLowPriority();
 };
 
-#include "CircularBuffer.tpp"
+#include "vo2CircularBuffer.tpp"
 
 #endif // CIRCULAR_BUFFER_H
